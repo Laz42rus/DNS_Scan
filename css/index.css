@@ -1,0 +1,55 @@
+.my_form{
+    width: 50%;
+    display: inline;
+}
+
+.margin_b4{
+    margin-bottom: 4px;
+}
+
+.align_r{
+    text-align: right;
+}
+
+.align_l{
+    text-align: left;
+}
+
+.align_c{
+    text-align: center;
+}
+
+.display_i{
+    display: inline;
+}
+
+.width_list{
+    width: 600px;
+}
+
+.frame{
+    border: groove;
+    border-left-width: 6px;
+    border-right-width: 6px;
+}
+
+.border_bot{
+    border-bottom: solid;
+    display: block;
+}
+
+.container{
+    padding-bottom: 15px;
+}
+
+.pad_top{
+    padding-top: 15px;
+}
+
+.pagination{
+    margin-left: 25px;
+}
+
+.margin_r{
+    margin-right: 10px;
+}
